@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.presPics{
+  height: 50px;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}  
