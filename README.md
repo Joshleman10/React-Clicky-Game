@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a memory game involving various US presidents.  Click a president to get points.  After each click the order of the presidents is shuffled.  If you click a president more than once, your score is reset.  Play the game yourself at the link below and see if you can get all 12!
+
+## Check out the deployed version on Heroku! 
+https://shielded-shelf-35830.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
